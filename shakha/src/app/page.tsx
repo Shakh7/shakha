@@ -39,14 +39,7 @@ export default function Home() {
             <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0"/>
             <div className="my-16 text-center animate-fade-in px-4">
                 <h2 className="text-lg lg:text-xl text-zinc-500 ">
-                    I'm building{" "}
-                    <Link
-                        target="_blank"
-                        href="https://unkey.dev"
-                        className="underline duration-500 hover:text-zinc-300"
-                    >
-                        shakha.uz
-                    </Link> to let people know more about myself.
+                    I'm building{" "}this website to let people know more about myself.
                 </h2>
             </div>
         </div>
