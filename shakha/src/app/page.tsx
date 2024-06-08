@@ -46,7 +46,7 @@ export default function Home() {
                         className="underline duration-500 hover:text-zinc-300"
                     >
                         shakha.uz
-                    </Link> to solve let people know more about me.
+                    </Link> to let people know more about myself.
                 </h2>
             </div>
         </div>
